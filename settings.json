@@ -1,0 +1,34 @@
+{
+  "security.workspace.trust.enabled": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path.mac": "/Users/anh/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+    "vscode-kubernetes.minikube-path.mac": "/Users/anh/.vs-kubernetes/tools/minikube/darwin-arm64/minikube",
+    "vs-kubernetes.crd-code-completion": "enabled"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "security.workspace.trust.banner": "never",
+  "security.workspace.trust.emptyWindow": false,
+  "security.workspace.trust.startupPrompt": "never",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.fontFamily": "'FantasqueSansMono Nerd Font', Menlo, Monaco, 'Courier New', monospace",
+"git.autofetch": true,
+  "terminal.integrated.cursorStyle": "line",
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "redhat.telemetry.enabled": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "window.zoomLevel": 1
+}
